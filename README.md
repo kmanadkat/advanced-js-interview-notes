@@ -6,7 +6,7 @@ Collection of articles and reading material to better understand javascript at a
 
 ![roadmap](./media/Advanced_Javascript.png)
 
-#### When it all started
+#### Foundation
 
 1. [How does JavaScript and JavaScript engine work in the browser and node?](https://medium.com/jspoint/how-javascript-works-in-browser-and-node-ab7d0d09ac2f) *- Uday Hiwarale*
 2. [A New Crankshaft for V8](https://blog.chromium.org/2010/12/new-crankshaft-for-v8.html) *- Chromium Blog*
