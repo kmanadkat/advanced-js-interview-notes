@@ -2,6 +2,10 @@
 
 Collection of articles and reading material to better understand javascript at an advance level.
 
+#### Roadmap
+
+![roadmap](./media/Advanced_Javascript.png)
+
 #### When it all started
 
 1. [How does JavaScript and JavaScript engine work in the browser and node?](https://medium.com/jspoint/how-javascript-works-in-browser-and-node-ab7d0d09ac2f) *- Uday Hiwarale*
