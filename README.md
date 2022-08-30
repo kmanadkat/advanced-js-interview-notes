@@ -30,5 +30,5 @@ Collection of articles and reading material to better understand javascript at a
    ![](./media/browser-components.png)
    
 
-8. 
+8. [A Simplified Explanation of Event Propagation in Javascript](https://www.freecodecamp.org/news/a-simplified-explanation-of-event-propagation-in-javascript-f9de7961a06e) *- Amber Wilkie*
 
